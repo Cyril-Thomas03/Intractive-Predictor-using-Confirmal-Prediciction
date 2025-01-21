@@ -1,4 +1,4 @@
-# Intractive-Predictor-using-Confirmal-Prediciction
+# Intractive-Predictor-using-Conformal-Prediction
 This repository contains an interactive R Shiny App designed to predict blood pressure using conformal prediction techniques. The app enables users to input relevant health metrics and receive reliable prediction intervals for blood pressure, ensuring interpretability and robustness. Built with a focus on usability, it provides real-time interactivity and visualization, making it a valuable tool for health data analysis and decision support.
 
 Features:
