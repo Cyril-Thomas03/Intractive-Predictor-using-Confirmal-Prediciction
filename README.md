@@ -13,3 +13,5 @@ Technologies:
 R, Shiny (for interactivity)
 Conformal prediction algorithms
 Data visualization libraries (e.g., ggplot2, plotly)
+
+Link to website: https://rshiny.math.carleton.ca/users/cyrilthomas3/4604Final/
